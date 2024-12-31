@@ -39,4 +39,4 @@
 These ideas provide a broad range of projects from classification to NLP and deep learning, ideal for showcasing different skills in ML/DL.
 
 Best Regards,
-Shaheer Ali.
+kalim Ullah.
